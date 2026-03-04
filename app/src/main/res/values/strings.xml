@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Palm Scanner</string>
+    <string name="view_result">Xem kết quả</string>
+    <string name="camera_permission_required">Cần cấp quyền camera để quét lòng bàn tay.</string>
+</resources>
